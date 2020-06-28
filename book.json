@@ -1,7 +1,7 @@
 {
-    "title": "Blankj's Glory",
-    "author": "Blankj",
-    "description": "select * from learn",
+    "title": "jizhihong's notebook",
+    "author": "jizhihong",
+    "description": "Living in a dream",
     "language": "zh-hans",
     "gitbook": "3.2.3",
     "structure": {
@@ -19,7 +19,12 @@
         "custom-favicon",
         "-sharing",
         "sharing-plus",
-        "todo"
+        "todo",
+        "tbfed-pagefooter",
+        "advanced-emoji",
+        "anchor-navigation-ex",
+        "katex",
+        "popup"
     ],
     "pluginsConfig": {
         "favicon": "icon/favicon.ico",
@@ -42,6 +47,11 @@
             "weibo": false,
             "whatsapp": false,
             "all": ["qq"]
+        },
+        "tbfed-pagefooter": {
+            "copyright":"Copyright &copy jizhihong 2020",
+            "modify_label": "该文章修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
         }
     }
 }
