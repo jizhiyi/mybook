@@ -1,0 +1,47 @@
+{
+    "title": "Blankj's Glory",
+    "author": "Blankj",
+    "description": "select * from learn",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "structure": {
+        "readme": "README.md"
+    },
+    "plugins": [
+        "back-to-top-button",
+        "chapter-fold",
+        "code",
+        "splitter",
+        "-lunr", 
+        "-search", 
+        "search-pro",
+        "-insert-logo",
+        "custom-favicon",
+        "-sharing",
+        "sharing-plus",
+        "todo"
+    ],
+    "pluginsConfig": {
+        "favicon": "icon/favicon.ico",
+        "sharing": {
+            "douban": false,
+            "facebook": false,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "qq": false,
+            "qzone": false,
+            "stumbleupon": false,
+            "twitter": false,
+            "viber": false,
+            "vk": false,
+            "weibo": false,
+            "whatsapp": false,
+            "all": ["qq"]
+        }
+    }
+}
